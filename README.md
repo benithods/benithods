@@ -15,33 +15,73 @@
 </br>
 </br>
 
-<hr>
 
-<h2 align="center">Tarjetas Interactivas</h2>
-
-<table>
+<table width="50%">
   <tr>
     <td>
-      #### Data Analytics 
-      
-      ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-      ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
-      ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
-      ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-     
+      <h2> 💻 About Me </h2>
+       <ul>
+        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
+       </ul>
+       <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
+       <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
+       <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
+       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
     </td>
-     
-
-  <tr>
     <td>
-      #### Data Analytics 
-      
-      ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-      ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
-      ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
-      ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-     
+     <h2> 💻 About Me </h2>
+       <ul>
+        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
+       </ul>
+       <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
+       <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
+       <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
+       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
+  </tr>
+   <tr>
+    <td>
+      <h2> 💻 About Me </h2>
+       <ul>
+        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
+       </ul>
+       <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
+     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
+     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
+     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
     </td>
+    <td>
+     <h2> 💻 About Me </h2>
+       <ul>
+        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
+       </ul>
+       <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
+     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
+     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
+     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
+  </tr>
+   </td>
+  </tr>
+</table>
+
+
+---
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
 </table>
 
 
