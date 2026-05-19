@@ -27,7 +27,8 @@
       <div align="center">
         <img src="https://picsum.photos/400/200?5" widthTarjeta 5</h3>
         <p>Explora destinos turísticos increíbles.</p>
-        <a href="https://www.google.com" target="_blank
+        <a href="https://www.google.com" target="_blank" </a>
+      </div>
      </td>
 
     <td>
