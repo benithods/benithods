@@ -24,14 +24,14 @@
 <table>
   <tr>
     <td>
-      <h2><img src="https://techstack-generator.vercel.app/react-icon.svg" width="20" height="20" alt="React" /> Censos de población y vivienda 2007 y 2017 </h2>
+      <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> -> Censos de población y vivienda 2007 y 2017 </h2>
        <p>Revisa los datos de población y vivienda <a href="https://github.com/benithods/benithods/tree/main/PeruPopulation">Aquí</a></p>
        <ul>
          <li>Población 2 CSV - Superficies 1 CSV - Ubigeos 1 CSV - Diccionario 1 pdf - Dash básico 1 pbix</li>
        </ul>
     </td>
     <td>
-      <h2><img src="https://techstack-generator.vercel.app/react-icon.svg" width="20" height="20" alt="React" /> Encuesta permanente de empleo nacional 2022 - 2025 </h2>
+      <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> -> Encuesta permanente de empleo nacional 2022 - 2025 </h2>
        <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
        <ul>
          <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
