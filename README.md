@@ -19,13 +19,9 @@
   <tr>
     <td>
       <h2> Censos de población y vivienda 2007 - 2017 </h2>
-       <p>Revisa los datos de población y vivienda <a href="[https://ut.ac.ir/en](https://github.com/benithods/benithods/tree/main/PeruPopulation)">Aquí</a></p>
+       <p>Revisa los datos de población y vivienda <a href="https://github.com/benithods/benithods/tree/main/PeruPopulation">Aquí</a></p>
        <ul>
-         <li>Población 2 CSV</li>
-         <li>Superficies 1 CSV</li>
-         <li>Ubigeos 1 CSV</li>
-         <li>Diccionario 1 pdf</li>
-         <li>Dash básico 1 pbix</li>
+         <li>Población 2 CSV - Superficies 1 CSV - Ubigeos 1 CSV - Diccionario 1 pdf - Dash básico 1 pbix</li>
        </ul>
     </td>
   </tr>
