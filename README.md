@@ -30,6 +30,13 @@
          <li>Población 2 CSV - Superficies 1 CSV - Ubigeos 1 CSV - Diccionario 1 pdf - Dash básico 1 pbix</li>
        </ul>
     </td>
+    <td>
+      <h2> Encuesta permanente de empleo nacional 2022 - 2025 </h2>
+       <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
+       <ul>
+         <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
+       </ul>
+    </td>
   </tr>
 </table>
 
