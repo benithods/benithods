@@ -1,16 +1,16 @@
-# Welcome to my Github Profile
+# Welcome to my Github profile as a
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
-</br>
-</br>
-🙋‍♂️ About Me
 
-- 🔧 I’m currently working on ...Online Retail Community App.
 
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+<h2> Data scientist </h2>
+
+- 🔧 Difundimos información basada en datos..
+
+- 💡 Traducimos análisis complejos a lenguaje simple.
+- 📖 Creamos contenido educativo e informativo.
+- ❄️ Analizamos de bases de datos sociales.
+- 📫 <a href="https://benithods.github.io/dbenito/">Contactarme</a>.
 
 </br>
 </br>
