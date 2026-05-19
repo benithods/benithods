@@ -5,20 +5,20 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<br>
 
+<h3>Specialist in Data and Social Analytics</h3>
+<br>
 
-<h2>Specialist in Data and Social Analytics</h2>
-
-- 🔧 Difundimos información basada en datos..
-
+- 🔧 Difundimos información basada en datos.
+  
 - 💡 Traducimos análisis complejos a lenguaje simple.
 - 📖 Creamos contenido educativo e informativo.
 - ❄️ Analizamos de bases de datos sociales.
 - 📫 <a href="https://benithods.github.io/dbenito/">Contactarme</a>.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
-</br>
-
 <table>
   <tr>
     <td>
