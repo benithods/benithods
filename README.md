@@ -12,43 +12,64 @@
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...gkaustav57@gmail.com.
 
+</br>
+</br>
 
-<table width="100%" >
+<hr>
 
- <tr>
-    <td width="60%">
-     
-## 🛠️ Skills
+<div>
 
-#### Languages
+<h2 align="center">Tarjetas Interactivas</h2>
 
-#### Development
-
-#### Database
-
-#### Tools and Technologies
-
-#### Data Analytics 
-
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-     
-</td>
+<table>
+  <tr>
     <td>
-  
-## 📄📜 Stats
+      <div align="center">
+        <img src="https://picsum.photos/400/200?5" widthTarjeta 5</h3>
+        <p>Explora destinos turísticos increíbles.</p>
+        <a href="https://www.google.com" target="_blank
+     </td>
 
+    <td>
+      <div align="center">
+        <img src="https://picsum.photos/400/200?2" width="100%a 2</h3>
+        <p>Aprende desarrollo web fácilmente.</p>
+        <a href="https://www.w3schools.com" target="_blank    </td>
+  </tr>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
- </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
-</p>
-     
-  </td>
- </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://picsum.photos/400/200?3" width="100%a 3</h3>
+        <p>Descubre noticias tecnológicas.</p>
+        <a href="https://www.b más</a>
+      </div>
+    </td>
+
+    <td>
+      <div align="center">
+        <img src="https://picsum.photos/400/200     <h3>Tarjeta 4</h3>
+        <p>Capacítate en cursos online.</p>
+        <a href="https://www.courseraás</a>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://picsum.photos/400/200?5" widthTarjeta 5</h3>
+        <p>Inspiración en diseño gráfico.</p>
+        <a href="https://www.behance.net" target </div>
+    </td>
+
+    <td>
+      <div align="center">
+        <img src="https://picsum.photos/400/200?6" width="100%a 6</h3>
+        <p>Explora ideas de programación.</p>
+        <a href="https://github.com" target="_blank </tr>
 </table>
+
+
+ 
+</div>
