@@ -24,14 +24,14 @@
 <table>
   <tr>
     <td>
-      <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> -> Censos de población y vivienda 2007 y 2017 </h2>
+      <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> Censos de población y vivienda 2007 y 2017 </h2>
        <p>Revisa los datos de población y vivienda <a href="https://github.com/benithods/benithods/tree/main/PeruPopulation">Aquí</a></p>
        <ul>
          <li>Población 2 CSV - Superficies 1 CSV - Ubigeos 1 CSV - Diccionario 1 pdf - Dash básico 1 pbix</li>
        </ul>
     </td>
     <td>
-      <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> -> Encuesta permanente de empleo nacional 2022 - 2025 </h2>
+      <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> Encuesta permanente de empleo nacional 2022 - 2025 </h2>
        <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
        <ul>
          <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
@@ -42,10 +42,8 @@
 
 ---
 
-
-
 <div align="center">
     <picture align="center">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
     </picture>
 </div>
