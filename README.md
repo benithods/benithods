@@ -24,14 +24,70 @@
 <table>
   <tr>
     <td>
-      <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> Censos de población y vivienda 2007 y 2017 </h2>
-       <p>Revisa los datos de población y vivienda <a href="https://github.com/benithods/benithods/tree/main/PeruPopulation">Aquí</a></p>
+      <h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> Censos de población </h3>
+       <ul>
+         <li>Datos de población a nivel distrital 2007 y 2017 <a href="https://github.com/benithods/benithods/tree/main/PeruPopulation">Descargar</a></li>
+       </ul>
+       <i>Docs: Población 2 CSV - Superficies 1 CSV - Ubigeos 1 CSV - Diccionario 1 pdf - Dash básico 1 pbix</i>
+    </td>
+    <td>
+      <h4>EPEN: 2022 - 2025<br>
+        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Condiciones de Actividad </h4>
+       <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
+       <ul>
+         <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
+       </ul>
+    </td>
+    <td>
+      <h4>EPEN: 2022 - 2025<br>
+        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->PET y Fuerza Laboral </h4>
+       <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
+       <ul>
+         <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
+       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>EPEN: 2022 - 2025 <br>
+        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Ocupados / Ocupación secundaria </h4>
+       <p>Revisa los datos de poblacionales <a href="https://github.com/benithods/benithods/tree/main/PeruPopulation">Aquí</a></p>
        <ul>
          <li>Población 2 CSV - Superficies 1 CSV - Ubigeos 1 CSV - Diccionario 1 pdf - Dash básico 1 pbix</li>
        </ul>
     </td>
     <td>
-      <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> Encuesta permanente de empleo nacional 2022 - 2025 </h2>
+      <h4><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> EPEN: 2022 - 2025 <br> Desocupados </h4>
+       <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
+       <ul>
+         <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
+       </ul>
+    </td>
+    <td>
+      <h4><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> EPEN: 2022 - 2025<br> Seguro de Salud </h4>
+       <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
+       <ul>
+         <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
+       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> EPEN: 2022 - 2025 <br> Niveles de educación </h4>
+       <p>Revisa los datos de poblacionales <a href="https://github.com/benithods/benithods/tree/main/PeruPopulation">Aquí</a></p>
+       <ul>
+         <li>Población 2 CSV - Superficies 1 CSV - Ubigeos 1 CSV - Diccionario 1 pdf - Dash básico 1 pbix</li>
+       </ul>
+    </td>
+    <td>
+      <h4><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> EPEN: 2022 - 2025 <br> Discapacidad </h4>
+       <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
+       <ul>
+         <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
+       </ul>
+    </td>
+    <td>
+      <h4><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> EPEN: 2022 - 2025<br> Etinicidad </h4>
        <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
        <ul>
          <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
