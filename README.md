@@ -24,74 +24,87 @@
 <table>
   <tr>
     <td>
-      <h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> Censos de población </h3>
+      <h4>Censos de población<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> Población 2007 y 2017</h4>
        <ul>
          <li>Datos de población a nivel distrital 2007 y 2017 <a href="https://github.com/benithods/benithods/tree/main/PeruPopulation">Descargar</a></li>
        </ul>
        <i>Docs: Población 2 CSV - Superficies 1 CSV - Ubigeos 1 CSV - Diccionario 1 pdf - Dash básico 1 pbix</i>
     </td>
     <td>
-      <h4>EPEN: 2022 - 2025<br>
-        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Condiciones de Actividad </h4>
-       <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
+      <h4>EPEN: 2022 - 2025<br>        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Condiciones de Actividad </h4>
        <ul>
-         <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
+         <li>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Descargar</a></li>
        </ul>
+       <i>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</i>
     </td>
     <td>
-      <h4>EPEN: 2022 - 2025<br>
-        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->PET y Fuerza Laboral </h4>
-       <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
+      <h4>EPEN: 2022 - 2025<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Ocupados</h4>
        <ul>
-         <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
+         <li>Revisa la EPEN en su sección Condiciones de Actividad <a href="">Próximamente</a></li>
        </ul>
+       <i>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</i>
     </td>
   </tr>
   <tr>
     <td>
-      <h4>EPEN: 2022 - 2025 <br>
-        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Ocupados / Ocupación secundaria </h4>
-       <p>Revisa los datos de poblacionales <a href="https://github.com/benithods/benithods/tree/main/PeruPopulation">Aquí</a></p>
+      <h4>EPEN: 2022 - 2025<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->2°do trabajo</h4>
        <ul>
-         <li>Población 2 CSV - Superficies 1 CSV - Ubigeos 1 CSV - Diccionario 1 pdf - Dash básico 1 pbix</li>
+         <li>Revisa la EPEN en su sección Condiciones de Actividad <a href="">Próximamente</a></li>
        </ul>
+       <i>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</i>
     </td>
     <td>
-      <h4><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> EPEN: 2022 - 2025 <br> Desocupados </h4>
-       <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
+      <h4>EPEN: 2022 - 2025<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Desocupados</h4>
        <ul>
-         <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
+         <li>Revisa la EPEN en su sección Condiciones de Actividad <a href="">Próximamente</a></li>
        </ul>
+       <i>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</i>
     </td>
     <td>
-      <h4><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> EPEN: 2022 - 2025<br> Seguro de Salud </h4>
-       <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
+      <h4>EPEN: 2022 - 2025<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Seguro de salud</h4>
        <ul>
-         <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
+         <li>Revisa la EPEN en su sección Condiciones de Actividad <a href="">Próximamente</a></li>
        </ul>
+       <i>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</i>
     </td>
   </tr>
   <tr>
     <td>
-      <h4><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> EPEN: 2022 - 2025 <br> Niveles de educación </h4>
-       <p>Revisa los datos de poblacionales <a href="https://github.com/benithods/benithods/tree/main/PeruPopulation">Aquí</a></p>
+      <h4>EPEN: 2022 - 2025<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Nivel educativo</h4>
        <ul>
-         <li>Población 2 CSV - Superficies 1 CSV - Ubigeos 1 CSV - Diccionario 1 pdf - Dash básico 1 pbix</li>
+         <li>Revisa la EPEN en su sección Condiciones de Actividad <a href="">Próximamente</a></li>
        </ul>
+       <i>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</i>
     </td>
     <td>
-      <h4><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> EPEN: 2022 - 2025 <br> Discapacidad </h4>
-       <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
+      <h4>EPEN: 2022 - 2025<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Ocupados</h4>
        <ul>
-         <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
+         <li>Revisa la EPEN en su sección Condiciones de Actividad <a href="">Próximamente</a></li>
        </ul>
+       <i>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</i>
     </td>
     <td>
-      <h4><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -> EPEN: 2022 - 2025<br> Etinicidad </h4>
-       <p>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Aquí</a></p>
+      <h4>EPEN: 2022 - 2025<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Discapacidad</h4>
        <ul>
-         <li>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</li>
+         <li>Revisa la EPEN en su sección Condiciones de Actividad <a href="">Próximamente</a></li>
        </ul>
+       <i>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>EPEN: 2022 - 2025<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Etnicitdad</h4>
+       <ul>
+         <li>Revisa la EPEN en su sección Condiciones de Actividad <a href="">Próximamente</a></li>
+       </ul>
+       <i>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</i>
+    </td>
+    <td>
+      <h4>EPEN: 2022 - 2025<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Mensualización</h4>
+       <ul>
+         <li>Revisa la EPEN en su sección Condiciones de Actividad <a href="">Próximamente</a></li>
+       </ul>
+       <i>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</i>
     </td>
   </tr>
 </table>
