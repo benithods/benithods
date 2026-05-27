@@ -31,16 +31,16 @@
        <i>Docs: Población 2 CSV - Superficies 1 CSV - Ubigeos 1 CSV - Diccionario 1 pdf - Dash básico 1 pbix</i>
     </td>
     <td>
-      <h4>EPEN: 2022 - 2025<br>        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Condiciones de Actividad </h4>
+      <h4>EPEN: 2022 - 2025<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Población en Edad de Trabajar en la Fuerza Laboral </h4>
        <ul>
-         <li>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/benithods/benithods/tree/main/EPEN">Descargar</a></li>
+         <li>Revisa PET - PEA - NoPEA del 2022 - 2025 actualizada<a href="https://github.com/benithods/benithods/tree/main/EPEN">Descargar</a></li>
        </ul>
        <i>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</i>
     </td>
     <td>
-      <h4>EPEN: 2022 - 2025<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Ocupados</h4>
+      <h4>EPEN: 2022 - 2025<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Fuerza laboral</h4>
        <ul>
-         <li>Revisa la EPEN en su sección Condiciones de Actividad <a href="">Próximamente</a></li>
+         <li>Revisa la EPEN en su sección Condiciones de Actividad <a href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">Próximamente</a></li>
        </ul>
        <i>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</i>
     </td>
