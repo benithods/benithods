@@ -33,7 +33,7 @@
     <td>
       <h4>EPEN: 2022 - 2025<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> ->Población en Edad de Trabajar en la Fuerza Laboral </h4>
        <ul>
-         <li>Revisa PET - PEA - NoPEA del 2022 - 2025 actualizada<a href="https://github.com/benithods/benithods/tree/main/EPEN">Descargar</a></li>
+         <li>Revisa PET - PEA - NoPEA del 2022 - 2025 actualizada<a href="https://github.com/benithods/benithods/tree/main/INEI_EPEN">Descargar</a></li>
        </ul>
        <i>Población 4 CSV (ZIP) - Ubigeos 1 CSV - Diccionario 1 xlsx - Dash básico 1 pbix</i>
     </td>
